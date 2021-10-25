@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SumonBiswa/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SumonBiswa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/FarhanMashukSaumik/github-readme-activity-graph"><img alt="Farhan Mashuk Saumik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FarhanMashukSaumik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -78,7 +78,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/SumonBiswa/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SumonBiswa">
+<a href="https://github.com/FarhanMashukSaumik/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=FarhanMashukSaumik">
 </a>
 <a href="https://github.com/SumonBiswa?tab=followers"><img src="https://img.shields.io/github/followers/SumonBiswa?label=Followers&style=social" alt="GitHub Badge"></a>
