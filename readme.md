@@ -12,8 +12,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio]
-<!-- - (https://SumonBiswaom)** -->
+- 👨‍💻 All of my projects are available at [https://github.com/FarhanMashukSaumik]
+<!-- - (https://FarhanMashukSaumik)** -->
 
 - 📫 How to reach me **farhanmashuksaumik1996@gmail.com**
 
