@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **farhanmashuksaumik1996@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and go to the GY very often.**
 
 ## 🚀 Languages and Tools:
 
